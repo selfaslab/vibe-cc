@@ -47,30 +47,6 @@
 - 제목 있는 대화: `Claude-API설계논의-260525.txt`
 
 
-```
-
-TXT·PDF(인쇄 화면)도 같은 이름 기준입니다.
-
----
-
-## 한글 지원
-
-- 대화 본문: UTF-8, 한글 정상
-- 파일명: 유니코드 파일명 지원 (Windows 10+)
-- PDF: 시스템 글꼴(맑은 고딕 등)로 인쇄
-
----
-
-## 권한
-
-| 권한 | 용도 |
-|------|------|
-| `activeTab` | 현재 Claude 탭 |
-| `scripting` | 추출 스크립트 주입 |
-| `downloads` | 파일 저장 |
-| `storage` | PDF 임시 HTML |
-| `claude.ai` | DOM 읽기 (전송 없음) |
-
 ---
 
 ## 프로젝트 구조
@@ -89,17 +65,6 @@ vibe-cc/
 
 ---
 
-## 배포·공유
-
-| 방법 | 설명 |
-|------|------|
-| **GitHub** | 이 저장소 + Releases ZIP ([selfaslab/vibe-cc](https://github.com/selfaslab/vibe-cc)) |
-| **블로그** | 설치 스크린샷 + 위 저장소 링크 |
-| **Chrome Web Store** | 일반 사용자용 (등록비 약 $5, 심사 필요) |
-| **Vercel** | 소개 페이지만 가능 (확장 자체 호스팅 불가) |
-
----
-
-## 라이선스
+## 제작 라이선스
 
 임프레스 / soeoda@naver.com
