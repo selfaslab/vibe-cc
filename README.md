@@ -65,6 +65,6 @@ vibe-cc/
 
 ---
 
-## 제작 라이선스
+## 제작 
 
 임프레스 / soeoda@naver.com
