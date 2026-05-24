@@ -21,6 +21,7 @@
 
 ## 사용법
 <img width="319" height="274" alt="2" src="https://github.com/user-attachments/assets/6c55bc39-1b6c-4496-aa8e-85d52d8849c8" />
+
 1. [claude.ai](https://claude.ai)에서 저장할 **대화 페이지**(`/chat/...`)를 엽니다.
 2. 확장 프로그램 **아이콘**을 클릭해 작은 팝업을 엽니다.
 3. 저장 형식을 선택합니다.
