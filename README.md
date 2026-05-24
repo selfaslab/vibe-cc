@@ -1,4 +1,4 @@
-# vibe-cc · 클로드 추출기 (Claude Exporter)
+# 클로드 대화 추출기 (Claude Exporter)
 
 [Claude.ai](https://claude.ai) 대화를 **Markdown / TXT / PDF**로 저장하는 Chrome 확장 프로그램입니다.
 
@@ -9,7 +9,7 @@
 ---
 
 ## 빠른 설치
-
+<img width="805" height="421" alt="1" src="https://github.com/user-attachments/assets/58fdc04c-cf90-4ef0-be24-df61fcb46f12" />
 1. 저장소 클론 또는 ZIP 다운로드
 2. Chrome → `chrome://extensions/` → **개발자 모드** 켜기
 3. **압축해제된 확장 프로그램을 로드** → `claude-exporter-mvp` 폴더 선택
@@ -17,8 +17,9 @@
 
 ---
 
-## 사용법
 
+## 사용법
+<img width="319" height="274" alt="2" src="https://github.com/user-attachments/assets/6c55bc39-1b6c-4496-aa8e-85d52d8849c8" />v
 1. [claude.ai](https://claude.ai)에서 저장할 **대화 페이지**(`/chat/...`)를 엽니다.
 2. 확장 프로그램 **아이콘**을 클릭해 작은 팝업을 엽니다.
 3. 저장 형식을 선택합니다.
@@ -117,4 +118,4 @@ vibe-cc/
 
 ## 라이선스
 
-MIT
+임프레스 / soeoda@naver.com
