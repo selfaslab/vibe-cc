@@ -10,6 +10,7 @@
 
 ## 빠른 설치
 <img width="805" height="421" alt="1" src="https://github.com/user-attachments/assets/58fdc04c-cf90-4ef0-be24-df61fcb46f12" />
+
 1. 저장소 클론 또는 ZIP 다운로드
 2. Chrome → `chrome://extensions/` → **개발자 모드** 켜기
 3. **압축해제된 확장 프로그램을 로드** → `claude-exporter-mvp` 폴더 선택
